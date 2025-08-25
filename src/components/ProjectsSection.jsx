@@ -30,6 +30,34 @@ const projects = [
     demoUrl: '#',
     githubUrl: '#',
   },
+  {
+    id: 4,
+    title: 'Mortgage Calculator',
+    description: 'An application to calculate Mortgage.',
+    image: '/projects/project4.png',
+    tags: ['Html', 'Css', 'JavaScript'],
+    demoUrl: 'https://mortgage-calculator-five-pink.vercel.app/',
+    githubUrl: 'https://github.com/ONUOHA92/Mortgage-calculator/tree/main',
+  },
+  {
+    id: 5,
+    title: 'Virtual Card Creation',
+    description: 'An application to create virtual card.',
+    image: '/projects/project5.png',
+    tags: ['Html', 'Scss', 'JavaScript'],
+    demoUrl: 'https://interactive-card-form-inky.vercel.app/',
+    githubUrl: 'https://github.com/ONUOHA92/interactive-card-form/tree/main',
+  },
+  {
+    id: 6,
+    title: 'Virtual Card Creation',
+    description:
+      'An application that connect a buyer and a seller in other to aviod frud',
+    image: '/projects/project6.png',
+    tags: ['Reactjs', 'Tailwind', 'Nextjs'],
+    demoUrl: 'https://escrow-pro-frontend.vercel.app/',
+    githubUrl: 'https://github.com/Techumbre/EscrowPro-frontend/tree/main',
+  },
 ];
 
 export const ProjectsSection = () => {
