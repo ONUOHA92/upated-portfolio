@@ -17,9 +17,9 @@ const projects = [
     description:
       'Upgrade your sound system with the all new ZX9 active speaker. It’s a bookshelf speaker system that offers truly wireless connectivity -- creating new possibilities for more pleasing and practical audio setups.',
     image: '/projects/project2.png',
-    tags: ['TypeScript', 'D3.js', 'Next.js'],
-    demoUrl: '#',
-    githubUrl: '#',
+    tags: ['TypeScript', 'Vite', 'Reactjs', 'Tailwind'],
+    demoUrl: 'https://react-ecommerce-theta-pearl.vercel.app/',
+    githubUrl: 'https://github.com/ONUOHA92/React-ecommerce',
   },
   {
     id: 3,
