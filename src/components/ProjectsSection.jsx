@@ -3,18 +3,19 @@ import { ArrowRight, ExternalLink, Github } from 'lucide-react';
 const projects = [
   {
     id: 1,
-    title: 'SaaS Landing Page',
-    description: 'A beautiful landing page app using React and Tailwind.',
+    title: 'Health Meal Recipe',
+    description:
+      'Discover eight quick, whole-food recipes that you can cook tonight no processed junk, no guesswork.',
     image: '/projects/project1.png',
-    tags: ['React', 'TailwindCSS', 'Supabase'],
-    demoUrl: '#',
-    githubUrl: '#',
+    tags: ['React', 'Vite', 'CSS'],
+    demoUrl: 'https://heathly-recipe.vercel.app/',
+    githubUrl: 'https://github.com/ONUOHA92/Heathly-Recipe',
   },
   {
     id: 2,
-    title: 'Orbit Analytics Dashboard',
+    title: 'E-commerces Website',
     description:
-      'Interactive analytics dashboard with data visualization and filtering capabilities.',
+      'Upgrade your sound system with the all new ZX9 active speaker. It’s a bookshelf speaker system that offers truly wireless connectivity -- creating new possibilities for more pleasing and practical audio setups.',
     image: '/projects/project2.png',
     tags: ['TypeScript', 'D3.js', 'Next.js'],
     demoUrl: '#',
@@ -50,9 +51,9 @@ const projects = [
   },
   {
     id: 6,
-    title: 'Virtual Card Creation',
+    title: 'Escrow Pro',
     description:
-      'An application that connect a buyer and a seller in other to aviod frud',
+      'An application that connect a buyer and a seller in other to aviod fraud',
     image: '/projects/project6.png',
     tags: ['Reactjs', 'Tailwind', 'Nextjs'],
     demoUrl: 'https://escrow-pro-frontend.vercel.app/',
