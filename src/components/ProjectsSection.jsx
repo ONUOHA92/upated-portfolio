@@ -23,13 +23,12 @@ const projects = [
   },
   {
     id: 3,
-    title: 'E-commerce Platform',
-    description:
-      'Full-featured e-commerce platform with user authentication and payment processing.',
+    title: 'Meet People Landing Page',
+    description: 'This is a platform where you meet people all over the globe',
     image: '/projects/project3.png',
-    tags: ['React', 'Node.js', 'Stripe'],
-    demoUrl: '#',
-    githubUrl: '#',
+    tags: ['Html', 'Css'],
+    demoUrl: 'https://meet-people-application.vercel.app/',
+    githubUrl: 'https://github.com/ONUOHA92/meet-people-application',
   },
   {
     id: 4,
