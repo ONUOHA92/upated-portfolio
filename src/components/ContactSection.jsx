@@ -106,7 +106,7 @@ export const ContactSection = () => {
                     href="tel:+2347072730265"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    +234 (70) 727-30265
+                    +1 (709) 6492835
                   </a>
                 </div>
               </div>
@@ -117,7 +117,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-medium flex"> Location</h4>
                   <a className="text-muted-foreground hover:text-primary transition-colors">
-                    Lagos, Isolo, Nigeria
+                    Canada, Corner brook, NewfoundLand
                   </a>
                 </div>
               </div>
